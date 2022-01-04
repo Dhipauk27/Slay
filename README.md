@@ -1,2 +1,4 @@
 # Slay
-A windows service built on .NET framework
+A windows service built on .NET framework.
+
+Read more about Slay on ""
